@@ -2,6 +2,8 @@
 
 A local-first RAG (Retrieval-Augmented Generation) application that enables students to upload course documents and have grounded, citation-backed conversations with an AI assistant. 
 
+**App:** https://teaching-assistant-ai.streamlit.app/
+
 Upload your course materials, ask questions in plain English, and get accurate answers with source citations.
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
